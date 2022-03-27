@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bc13551c-72f9-5ce4-972c-b01920afe963
 resourcetype: Document
 title: Layers and levels Models of analysis
 uid: 304a6d24-da80-dc9d-9fd9-38147e130592

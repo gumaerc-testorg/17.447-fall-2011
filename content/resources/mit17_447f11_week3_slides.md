@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bc13551c-72f9-5ce4-972c-b01920afe963
 resourcetype: Document
 title: A quick guide to the Internet
 uid: dc2f9146-5219-1bc5-111f-dcbd518298d3
