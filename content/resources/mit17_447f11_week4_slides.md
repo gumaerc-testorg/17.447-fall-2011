@@ -5,6 +5,7 @@ file: /courses/17-447-cyberpolitics-in-international-relations-theory-methods-po
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Layers and levels Models of analysis
 uid: 304a6d24-da80-dc9d-9fd9-38147e130592
 ---
 Lecture presentation on a layered model of cyberspace and levels of analysis.
-

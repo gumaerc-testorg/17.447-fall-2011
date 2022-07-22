@@ -5,6 +5,7 @@ file: /courses/17-447-cyberpolitics-in-international-relations-theory-methods-po
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: A quick guide to the Internet
 uid: dc2f9146-5219-1bc5-111f-dcbd518298d3
 ---
 Lecture presentation with an overview of the Internet.
-
