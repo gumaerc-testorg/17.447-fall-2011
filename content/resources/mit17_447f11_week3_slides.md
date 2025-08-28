@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation with an overview of the Internet.
-file: /courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/dc2f914652191bc5111fdcbd518298d3_MIT17_447F11_Week3_slides.pdf
+file: /ol-ocw-studio-app/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/dc2f914652191bc5111fdcbd518298d3_MIT17_447F11_Week3_slides.pdf
 file_size: 3004841
 file_type: application/pdf
 learning_resource_types:
